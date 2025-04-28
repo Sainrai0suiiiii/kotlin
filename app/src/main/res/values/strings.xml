@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">My Application</string>
     <string name="title_activity_login">Login</string>
+    <string name="title_activity_card">card</string>
+    <string name="title_activity_card1">Card1</string>
+    <string name="title_activity_card2">Card2</string>
+    <string name="title_activity_card_app">CardApp</string>
 </resources>
